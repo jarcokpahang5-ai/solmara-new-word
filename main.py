@@ -18,7 +18,7 @@ definition after the dash.
 
 import os
 
-ENTRY = "showgument (n.) \u2014 the argument you win in the shower, hours after losing it in real life."
+ENTRY = "showgument (n.) \u2014 the argument you finally win in the shower, hours after losing it in real life."
 
 WORD = "showgument"
 MAX_CHARS = 140
